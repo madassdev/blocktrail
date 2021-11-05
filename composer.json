@@ -39,14 +39,14 @@
         "mdanter/ecc": "v0.4.*",
 
         "guzzlehttp/guzzle": "^7.0.1",
-        "madassdev/99guzzle": "2.0.*",
 
         "rych/hash_pbkdf2-compat": "~1.0",
         "ramsey/array_column": "~1.1",
         "dompdf/dompdf" : "0.6.*",
         "endroid/qrcode": "1.5.*",
         "blocktrail/cryptojs-aes-php": "0.1.*",
-        "spomky-labs/php-aes-gcm": "v1.2.0"
+        "spomky-labs/php-aes-gcm": "v1.2.0",
+        "madassdev/99guzzle": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "5.*",
