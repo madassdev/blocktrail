@@ -38,7 +38,7 @@
         "btccom/cashaddress": "v0.0.3",
         "mdanter/ecc": "v0.4.*",
 
-        "guzzlehttp/guzzle": "^6.*",
+        "guzzlehttp/guzzle": "^7.0.1",
         "99designs/http-signatures-guzzlehttp": "2.0.*",
 
         "rych/hash_pbkdf2-compat": "~1.0",
